@@ -12,6 +12,7 @@ function ChatWindow() {
 
   const [messages,setMessages] = useState(defaultMessage)
   const [input, setInput] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
   const messagesEndRef = useRef(null);
 
@@ -25,15 +26,19 @@ function ChatWindow() {
 
   const handleSend = async (input) => {
     if (input.trim() !== "") {
-      // Set user message
-      setMessages(prevMessages => [...prevMessages, { role: "user", content: input }]);
+      const newUserMessage = { role: "user", content: input };
+      const updatedMessages = [...messages, newUserMessage];
+  
+      setMessages(updatedMessages);
       setInput("");
-
-      // Call API & set assistant message
-      const newMessage = await getAIMessage(input);
+      setIsLoading(true);
+  
+      const newMessage = await getAIMessage(updatedMessages);
       setMessages(prevMessages => [...prevMessages, newMessage]);
+      setIsLoading(false);
     }
   };
+  
 
   return (
       <div className="messages-container">
@@ -46,13 +51,22 @@ function ChatWindow() {
                   )}
               </div>
           ))}
+          {isLoading && (
+            <div className="assistant-message-container">
+              <div className="message assistant-message loading-bubble">
+                <span className="dot"></span>
+                <span className="dot"></span>
+                <span className="dot"></span>
+              </div>
+            </div>
+          )}
           <div ref={messagesEndRef} />
           <div className="input-area">
             <input
               value={input}
               onChange={(e) => setInput(e.target.value)}
               placeholder="Type a message..."
-              onKeyPress={(e) => {
+              onKeyDown={(e) => {
                 if (e.key === "Enter" && !e.shiftKey) {
                   handleSend(input);
                   e.preventDefault();
@@ -60,7 +74,7 @@ function ChatWindow() {
               }}
               rows="3"
             />
-            <button className="send-button" onClick={handleSend}>
+            <button className="send-button" onClick={() => handleSend(input)}>
               Send
             </button>
           </div>

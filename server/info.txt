@@ -1,0 +1,375 @@
+How to Fix A Dishwasher That Won't Dry Properly
+How to Fix A Dishwasher That Won't Dry Properly
+Click a Part Below to Start Your Repair:
+Heating Element High Limit Thermostat Rinse Aid Dispenser
+About this repair:
+Rated as EASY
+198 repair stories
+4 step by step videos
+Want Mr. Appliance to fix that broken Dishwasher?
+Schedule Service
+Heating Element
+A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your dishwasher is turned off, and then check for continuity with a multi-meter.
+
+How to test the heating element in a dishwasher with a multimeter:
+
+Unplug your dishwasher before attempting this test.
+Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover.
+In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element’s terminals by carefully grasping the metal connector, do not pull on the wire itself.
+To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner’s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective.
+If your test produces a reading different from the manufacturer’s recommendation, you will need a replacement heating element.
+Start Your Repair HereView All Dishwasher Elements and Burners
+
+Enter model or part number
+Need help finding your model number?
+How to test a heating element
+How to replace a heating element
+Back to Top
+High Limit Thermostat
+The high limit thermostat acts as a safety device that keeps the dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.
+
+How to test a dishwasher high limit thermostat with a multimeter:
+
+Ensure that you unplug your appliance before beginning this inspection.
+Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel.
+Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero.
+If your thermostat produces different results, you will need a replacement high limit thermostat.
+Start Your Repair HereView All Dishwasher Thermostats
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Rinse Aid Dispenser
+The rinse aid or the rinse aid dispensing cap could be the reason why your dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.
+
+How to inspect a dishwasher rinse aid dispenser:
+
+This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection.
+Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser.
+After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage.
+If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser.
+Start Your Repair HereView All Dishwasher Dispensers
+
+Enter model or part number
+Need help finding your model number?
+Back
+
+How To Repair A Broken Refrigerator
+Refrigerator
+If you are having problems with your refrigerator and need help troubleshooting what the issue could be, you’ve come to the right spot. Below you will find all of our fridge-related troubleshooting videos, and we also list all of the common symptoms refrigerators experience, like not making ice or being too noisy. Select the symptom your fridge is having and you’ll learn about the parts that can fix this issue.
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Common Broken Refrigerator Symptoms
+Reported By
+Noisy
+When your fridge is noisy, find out how to repair it by troubleshooting the location of the noise, from the evaporator fan motor in the freezer to the bottom of the fridge with the condenser fan motor.
+
+  
+29% of customers
+Leaking
+Diagnose the reason for your leaking fridge, from a faulty water inlet valve to a worn out door seal.
+
+  
+27% of customers
+Will not start
+Find out how to fix a fridge that will not start, by examining a few key parts such as the temperature control or the compressor overload relay.
+
+  
+18% of customers
+Ice maker not making ice
+Learn how to fix your ice maker when it's not making ice and inspect the water fill tubes, water inlet valve and the icemaker.
+
+  
+6% of customers
+Fridge too warm
+If your fridge is, too warm then troubleshooting common parts like the air inlet damper.
+
+  
+6% of customers
+Not dispensing water
+If the water dispenser is not dispensing water then examine key parts such as the water inlet valve and dispenser actuator.
+
+  
+3% of customers
+Fridge and Freezer are too warm
+Diagnose the causes of why the fridge and freezer are too warm by checking a few key parts such as the defrost timer, defrost heater, defrost thermostat or evaporator fan motor.
+
+  
+3% of customers
+Door Sweating
+When the fridge has doors that are sweating then examine key components such as the door gasket, seals and the hinges.
+
+  
+1% of customers
+Light not working
+Learn how to fix the fridge when the light won't turn on but the door is opened.
+
+  
+1% of customers
+Fridge too cold
+Find out how to repair a fridge that's too cold by troubleshooting the common problem parts like a temperature control or thermistor.
+
+  
+1% of customers
+Fridge runs too long
+Troubleshoot why the fridge is running too long by examining some of the key parts like a faulty defrost timer or the thermostats.
+
+  
+1% of customers
+Freezer too cold
+Determine why your freezer is too cold by troubleshooting parts, like the air damper or thermistor.
+
+  
+1% of customers
+How To Fix A Noisy Refrigerator
+How To Fix A Noisy Refrigerator
+Click a Part Below to Start Your Repair:
+Condenser Fan Motor Evaporator Fan Motor Evaporator Fan Motor Grommet
+About this repair:
+Rated as EASY
+1875 repair stories
+33 step by step videos
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Condenser Fan Motor
+Most modern frost-free refrigerators will have a fan cooled condenser coil. The condenser fan circulates air through the condenser coil to remove heat as well as circulating air over the drain pan to evaporate the defrost water. If your fridge is making a loud noise, the condenser fan motor could be to blame. The condenser fan motor runs at the same time as the evaporator motor and the compressor. In addition to noise, your fridge might not be staying as cool as normal and/or may be turning on and off regularly.
+
+How to inspect a refrigerator condenser fan motor:
+
+Disconnect your refrigerator from the power source and then remove the rear access panel.
+Locate the condenser fan motor, it is usually found near the compressor at the bottom rear of the refrigerator.
+Visually inspect the condenser fan motor for any signs of wear or damage. Look for any debris or obstructions that could be preventing the fan from moving freely.
+If the fan motor is seized or worn, you will need a replacement condenser fan motor.
+Start Your Repair HereView All Refrigerator Motors
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Evaporator Fan Motor
+The evaporator fan motor is responsible for pulling air over the evaporator coils when the compressor is running. If your refrigerator is making a loud noise that appears to be coming from the freezer area, a faulty evaporator fan motor could be to blame. You may also notice that your refrigerator is not staying as cold as normal, or your ice is taking longer to freeze.
+
+How to inspect a refrigerator evaporator fan motor:
+
+After unplugging your refrigerator, remove the evaporator fan cover. The evaporator fan cover is located inside the unit in the freezer compartment.
+Inspect the evaporator motor for any signs of wear or damage. If there is a significant amount of ice on the motor, defrost your freezer and see if that resolves the issue.
+Attempt to manually turn the motor shaft, it should turn freely with minimal resistance.
+If you cannot turn it easily, or if it is noticeably worn, you need a replacement evaporator fan motor.
+Start Your Repair HereView All Refrigerator Motors
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Evaporator Fan Motor Grommet
+The evaporator fan motor grommet is used to isolate the motor from the mounting bracket and reduce vibration noise. Regular wear and tear can cause the grommets to wear or become detached, which can increase vibration and cause excess noise.
+
+How to check a refrigerator’s evaporator fan motor grommets:
+
+Unplug your refrigerator.
+Remove the evaporator fan cover, which will be found inside the freezer compartment.
+Inspect the grommet to see if it has fallen off, or it if is showing signs of wear or damage..
+If any of the above are true, you will need a replacement evaporator fan motor grommet.
+
+How To Fix Leaking Refrigerator
+How To Fix Leaking Refrigerator
+Click a Part Below to Start Your Repair:
+Door Gaskets Or Seals Water Inlet Valve Ice Maker Assembly
+About this repair:
+Rated as EASY
+3265 repair stories
+18 step by step videos
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Door Gaskets Or Seals
+Door gaskets or seals are found along the outside of the refrigerator’s doors. They are normally made from a vinyl material and will typically have a flexible magnetic strip inside to adhere to the cabinet when the door is closed to create an airtight seal. If there is moisture along the edge of the door then inspect the gaskets for distortion or damage. Air leakage through a defective gasket will create excessive moisture in the refrigerator, possibly resulting in defrost issues and potential water leaks.
+
+How to inspect refrigerator door gaskets or seals:
+
+After unplugging your refrigerator, open the fridge and freezer doors to inspect the door gaskets or seals.
+You are looking for any discoloration, mold, wear, missing pieces, or anything else that may prevent a proper seal.
+If you find any of the above, you will need replacement gaskets or seals.
+Start Your Repair HereView All Refrigerator Seals and Gaskets
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Water Inlet Valve
+The water inlet valve is a solenoid-operated device that connects your household water supply line to your refrigerator if you have an ice maker or water dispenser. When activated, it diverts water from the supply line to the dispenser or to fill your ice maker.
+
+How to check the water inlet valve in a refrigerator with a multi-meter:
+
+Unplug your refrigerator, disconnect the water supply and locate your water inlet valve. It is usually on the rear of the fridge, near the bottom. You will need to remove the rear panel to access it.
+Inspect the valve inlet supply connections for leaks and tighten or replace the connectors. You should also inspect the valve body for any cracks or damage. Check the outlet tubing for cracks or abrasions that may also create a leak and replace any cracked or brittle tubing and connectors.
+If none of the above appear to be the cause of the leak, remove the water inlet valve from the unit.
+Using a multi-meter on the Rx1 setting, test your valve for conitniuty by placing the probes on the valve’s terminals. You should receive a reading of 200 to 500 ohms.
+If you receive any other reading, you need a replacement water inlet valve.
+Start Your Repair HereView All Refrigerator Valves
+
+Enter model or part number
+Need help finding your model number?
+How to test a water inlet valve
+How to replace a water inlet valve
+Back to Top
+Ice Maker Assembly
+If your fridge is leaking water from in or around the ice maker, you’re probably also experiencing problems with the ice distribution itself. The cubes may be too small, one solid block of ice or not being produced at all. Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+
+How to inspect a refrigerator’s ice maker assembly:
+
+Disconnect your appliance from both the power source and water source.
+Inspect the fill tube and the fill cup area at the back of the icemaker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+If any issues are found while performing the checks above, you will may a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.
+Start Your Repair HereView All Refrigerator Ice Makers
+
+Enter model or part number
+Need help finding your model number?
+Back
+
+How To Fix A Refrigerator That Will Not Start
+How To Fix A Refrigerator That Will Not Start
+Click a Part Below to Start Your Repair:
+Overload Or Relay-Start Capacitor Cold Control & Temperature Control Electronic Control Board
+About this repair:
+Rated as EASY
+365 repair stories
+8 step by step videos
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Overload Or Relay-Start Capacitor
+The overload relay is a protection device used in the compressor circuit on your refrigerator. Power is applied to the compressor motor windings through the overload device, and the relay is used to add the start winding in the circuit until the compressor is at running speed. If the fans are running and your compressor won’t start or if you hear a clicking sound from the unit, check the overload relay for signs of overheating or arcing.
+
+How to test a refrigerator’s overload or relay-start capacitor with a multi-meter:
+
+Begin by ensuring you have unplugged your refrigerator, and then remove the rear panel.
+Locate and remove your overload or relay-start capacitor. On modern refrigerators the overload relay is usually a combined part and plugs directly onto the side of the compressor. There may also be a start capacitor attached to the relay overload assembly, which provides increased starting voltage to the compressor windings.
+To test, begin by discharging the capacitor, then set your multi-meter to the Rx1 setting and place the probes onto the terminals of the overload capacitor and/or the relay-start capacitor. The reading you should receive will vary from model to model, and may be indicated on the outside of the capacitor, or in your owner’s manual.
+If your test does not produce the reading the manufacturer recommends, you need a replacement overload or relay-start capacitor. If your tests do produce the recommended readings you may have a defective compressor, which will need to be tested by a qualified professional as it is a live circuit test.
+Start Your Repair HereView All Refrigerator Parts
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Cold Control & Temperature Control
+The cold control is a temperature-controlled switch that supplies power to the compressor and fan circuits in the refrigerator. If your refrigerator won’t start and no fans are running, then you may have a defective control.
+
+How to test your fridge’s cold control & temperature control with a multi-meter:
+
+After disconnecting your appliance from the power source, open your refrigerator door and locate the control. It will be located behind the temperature adjustment knob and is usually found in the fresh food section control panel.
+Remove the control from the fridge in order to test it.
+Using a multi-meter on the Rx1 setting, set your control to the lowest (warmest) setting, and place the probes on the terminals. You are testing for continuity and you should receive a reading of infinity.
+With the probes still on the terminals, adjust the control to higher (colder) and higher settings, your reading should then change to zero, indicating that you have continuity.
+If your control fails either of the tests above, you will need a replacement cold control & temperature control.
+Start Your Repair HereView All Refrigerator Parts
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Electronic Control Board
+Some newer refrigerators are controlled by an Electronic Control Board that monitors temperatures and controls the compressor, fans and defrost system. If your refrigerator will not start, the control board could be at fault. Electronic controls are complex and expensive. You should first verify that there is no power being supplied to the compressor, that you have incoming power to the control board and that the external controls are functioning properly before condemning the electronic control.
+
+How to inspect your refrigerator’s electronic control board:
+
+Ensure that you have disconnected your appliance from the power before beginning as you will be handling electrical components.
+Open your refrigerator door to locate and remove the electronic control board from your appliance. It will be located inside the control box, which is usually found attached to the top or side of the fridge.
+Look on the control board for signs of arcing, burnt connections, damaged foil, wear, or any other damage.
+If you find any of the above, you need a replacement electronic control board.
+Start Your Repair HereView All Refrigerator Circuit Boards and Touch Pads
+
+Enter model or part number
+Need help finding your model number?
+Back
+
+How To Fix A Refrigerator That's Not Making Ice
+How To Fix A Refrigerator That's Not Making Ice
+Click a Part Below to Start Your Repair:
+Water Fill Tubes Water Inlet Valve Ice & Water Filter Ice Maker Assembly & Replacement Ice Maker
+About this repair:
+Rated as EASY
+3458 repair stories
+23 step by step videos
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Water Fill Tubes
+Inspect the ice maker mold to see if there are ice cubes present. If there are no cubes or very small cubes, then you should look for issues with the water fill system.
+
+How to inspect your refrigerator’s water fill tubes:
+
+Before beginning, disconnect both the power and water source from your refrigerator.
+At the back of the icemaker, inspect the fill tube and the fill cup area at the back of the ice maker to make sure that they are not frozen. If there is an ice buildup in that area, confirm no foreign objects have disrupted the flow of water into the fill cup.
+Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+If you find any issues while performing the checks above, you will need replacement water fill tubes.
+Start Your Repair HereView All Refrigerator Hoses and Tubes
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+Water Inlet Valve
+Some water inlet valves may have a screen to filter debris before it can enter the valve. If the screen is plugged, water flow will be restricted, and the result will be small or layered ice cubes. Remove and clean the screen if it is clogged. If dirt has gotten into the valve it may not shut off completely and will continuously drip water into the ice maker fill tube and will eventually freeze up. Low household water pressure or a restriction at the manual shut off valve will also cause the water inlet valve to not shut off completely and create this same condition. Self piercing saddle valves are the most common shut off valve to cause this problem as the hole that is pierced in the water line is often too small and will more easily become restricted.
+
+How to check the water inlet valve in a refrigerator with a multi-meter:
+
+Disconnect your appliance from the power and water source before beginning.
+Remove the rear access panel and locate your water inlet valve, it is usually found near the bottom.
+Before removing the inlet valve, look for any signs of leaks or loose connectors in the valve inlet supply. If no issues are found, inspect the valve body for any cracks or damage.
+Inspect the outlet tubing for any brittle tubing, abrasions, cracks, or any other damage.
+If you do not locate any leaks, disconnect the water inlet valve and remove it from the refrigerator to test it
+Set your multi-meter to the Rx1 setting and touch the terminals with the probes. You are testing for continuity and should receive a reading of 200 to 500 ohms.
+If you receive any other reading, you need a replacement water inlet valve.
+Start Your Repair HereView All Refrigerator Valves
+
+Enter model or part number
+Need help finding your model number?
+How to test a water inlet valve
+How to replace a water inlet valve
+Back to Top
+Ice & Water Filter
+If equipped, the Ice and Water filter in your refrigerator is responsible for removing any debris or contaminants from your water that may remain after local water treatment. Most filters contain and are made up of carbon and fabric filter. Over time, the filter may become restricted and reduce the water flow to the ice maker, causing a symptom of little or no ice. Most manufacturers recommend replacing the filter every 6 months, but local water conditions may require that you replace more frequently.
+
+
+How to inspect your refrigerator’s ice and water filter:
+
+Determine when you last replaced your water filter. Replacement frequency varies by model and local water quality, but you should never go longer than 12 months without replacing your water filter.
+Locate your water filter. Location varies by model and brand, but it is often found inside the unit attached to the ceiling or back corner, behind the base grill, or in the water line leading to the fridge. If your filter is in the water line, you will need to turn off the water supply before removing the filter.
+Due to the variety of filters and placements we suggest you follow brand specific install instructions or refer to manufacturer guidelines. Before installing the new filter note the install date on the filter or on your calendar.
+If it has been longer than the manufacturer recommended guidelines, or you filter is damaged, you will need a replacement ice and water filter.
+Start Your Repair HereView All Refrigerator Filters
+
+Enter model or part number
+Need help finding your model number?
+How to remove and replace a water filter
+Back to Top
+Ice Maker Assembly & Replacement Ice Maker
+If there are no ice buildup issues or suspected problems with the water supply, then you may have a problem with the ice maker control. The most common type of ice maker used in modern refrigerators is the heat release ice maker. The testing procedure for the heat release ice maker involves a live voltage test, consequently it should only be performed by a qualified professional. However, the issue may also be related to the water fill system or the ice maker assembly.
+
+How to inspect your refrigerator’s ice maker assembly:
+
+Begin by disconnecting the water source and unplugging your refrigerator.
+Open the freezer door in order to inspect the fill cup area and the fill tube itself for any signs of damage, wear, or freezing.
+Inspect the outlet tubing from the fill valve to the ice maker fill tube for any signs of restrictions.
+If there is an ice buildup in either area, confirm no foreign objects have disrupted the flow of water into the fill cup, and allow the freezer to defrost to see if that resolves the issue.
+If any issues are found while performing the checks above & defrosting the freezer did not solve the issue, you will need a replacement ice maker assembly. If nothing obvious has caused the ice buildup, then suspect the inlet valve or tubing.
+Start Your Repair HereView All Refrigerator Ice Makers
+
+Enter model or part number
+Need help finding your model number?
+Back to Top
+More
+
+ To Fix A Refrigerator That's Too Warm
+How To Fix A Refrigerator That's Too Warm
+Click a Part Below to Start Your Repair:
+Air Inlet Damper Or Baffle
+About this repair:
+Rated as REALLY EASY
+16 repair stories
+Want Mr. Appliance to fix that broken Refrigerator?
+Schedule Service
+Air Inlet Damper Or Baffle
+The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then you may not have enough cold air entering the fresh food compartment resulting in higher than normal temperatures.
+
+How to inspect a refrigerator’s air inlet damper or baffle:
+
+Disconnect your refrigerator from the power source and open your refrigerator door to locate the damper or baffle. It will be found where the cold air enters the fresh food compartment.
+The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage. Care should be used when inspecting the housing to avoid damage to the seal or the Styrofoam.
+Some refrigerator models use a temperature sensing bulb attached to this control that will automatically adjust the control for changes in the interior temperature. Make sure that the sensing bulb is in the correct position and is not damaged.
+Attempt to operate the control knob to verify that the linkage is intact and that it moves freely.
+If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle.
