@@ -17,11 +17,13 @@ This is a retrieval-augmented generation (RAG) chatbot built using **LangChain.j
 ## What I Built
 
 * Designed a full-stack pipeline that:
-
   * Chunks raw text,
   * Embeds it with OpenAI,
   * Stores and retrieves vectors via Supabase.
-* Implemented a retrieval chain to enable real-time, data-specific responses from the chatbot.
+* Generates a standalone, context-independent question from user input.
+* Queries Supabase with the standalone question to retrieve relevant document chunks.
+* Combines the retrieved context, standalone question, and conversation history (last 5 messages) to create a final prompt for the AI model.
+* Implements a retrieval chain to enable real-time, data-specific responses from the chatbot.
 * Uses up to the last 5 messages as additional context to provide coherent and context-aware replies.
 * Scraped web pages to power the system and validate generalizability.
 * Built the UI and backend logic to support seamless integration between user input and AI-generated answers.
