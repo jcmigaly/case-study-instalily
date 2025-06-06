@@ -22,7 +22,7 @@ This is a retrieval-augmented generation (RAG) chatbot built using **LangChain.j
   * Embeds it with OpenAI,
   * Stores and retrieves vectors via Supabase.
 * Implemented a retrieval chain to enable real-time, data-specific responses from the chatbot.
-* Used a unique dataset (not provided in the original tutorial) to power the system and validate generalizability.
+* Scraped web pages to power the system and validate generalizability.
 * Built the UI and backend logic to support seamless integration between user input and AI-generated answers.
 
 ---
