@@ -37,5 +37,5 @@ This is a retrieval-augmented generation (RAG) chatbot built using **LangChain.j
 
 ## 🧑‍💻 Author
 
-Developed by /JonCarlo Migaly — showcasing applied experience in full-stack AI development, vector search, and real-world chatbot deployment.
+Developed by JonCarlo Migaly — showcasing applied experience in full-stack AI development, vector search, and real-world chatbot deployment.
 
