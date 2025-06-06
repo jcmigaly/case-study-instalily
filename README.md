@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# 📚 RAG Chatbot with LangChain.js + Supabase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a retrieval-augmented generation (RAG) chatbot built using **LangChain.js**, **OpenAI embeddings**, and **Supabase** as a vector store. The chatbot answers user questions based on custom, domain-specific data, making it ideal for tailored knowledge applications.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 💡 Features
 
-### `npm start`
+* **Custom Knowledge Base**: Parses and indexes text data to enable intelligent, context-aware Q\&A.
+* **LangChain Expression Language**: Streamlines the logic of AI pipelines using a composable and declarative approach.
+* **Vector Search**: Converts text into embeddings and stores them in Supabase for fast semantic search.
+* **Contextual Retrieval**: Dynamically fetches the most relevant text chunks to answer user queries accurately.
+* **Interactive Chat Interface**: Simple frontend to test and interact with the retrieval system.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧠 What I Built
 
-### `npm test`
+* Designed a full-stack pipeline that:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  * Chunks raw text,
+  * Embeds it with OpenAI,
+  * Stores and retrieves vectors via Supabase.
+* Implemented a retrieval chain to enable real-time, data-specific responses from the chatbot.
+* Used a unique dataset (not provided in the original tutorial) to power the system and validate generalizability.
+* Built the UI and backend logic to support seamless integration between user input and AI-generated answers.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔄 Potential Improvements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Add file upload for live ingestion of user documents.
+* Improve conversational memory and history tracking.
+* Support multi-source and multi-user knowledge bases.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧑‍💻 Author
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Developed by /JonCarlo Migaly — showcasing applied experience in full-stack AI development, vector search, and real-world chatbot deployment.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
